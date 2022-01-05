@@ -7,14 +7,25 @@ Rack? cmal
 We can make 11 words from "cmal"
 
 All of the words with their scores (sorted by score):
+
 8: calm
+
 8: clam
+
 7: cam
+
 7: mac
+
 5: lac
+
 5: lam
+
 5: mal
+
 4: am
+
 4: ma
+
 2: al
+
 2: la
